@@ -2,7 +2,7 @@
 - 👀  I'm interested in programming, AI, web development, hiking, writing and among others
 - 🌱 I’m currently learning Python, AI Frameworks and Machine Learning Libraries 
 - 💞️ I’m looking to collaborate on ML and Web Development with someone
-- 📫 How to reach me: Via Linkedin
+- 📫 How to reach me: http://linkedin.com/in/wrya-karimi
 
 <!---
 wrya-karimi/wrya-karimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
